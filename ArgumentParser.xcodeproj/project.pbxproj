@@ -1339,6 +1339,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -1356,6 +1357,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
@@ -1515,6 +1517,7 @@
 				DA01E30A1A8471E20012BCAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA8734A318970AB800113896 /* Build configuration list for PBXNativeTarget "ArgumentParser-Static" */ = {
 			isa = XCConfigurationList;
